@@ -1,0 +1,9 @@
+"math/9201212",,"D. J. H. Garling and Stephen J. Montgomery-Smith","Complemented subspaces of spaces obtained by interpolation",,"J. L.M.S. (2) 44 (1991), 503-513",,,"math.FA",,"  If Z is a quotient of a subspace of a separable Banach space X, and V is any
+separable Banach space, then there is a Banach couple (A_0,A_1) such that A_0
+and A_1 are isometric to $X\oplus V$, and any intermediate space obtained using
+the real or complex interpolation method contains a complemented subspace
+isomorphic to Z. Thus many properties of Banach spaces, including having
+non-trivial cotype, having the Radon-Nikodym property, and having the analytic
+unconditional martingale difference sequence property, do not pass to
+intermediate spaces.
+","[{""version"":""v1"",""created"":""Wed, 20 Jun 1990 18:31:00 GMT""},{""version"":""v2"",""created"":""Sat, 4 Dec 1999 04:45:54 GMT""}]","2008-02-03"

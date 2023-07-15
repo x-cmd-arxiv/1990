@@ -1,0 +1,7 @@
+"math/9201216",,"Bernard Maurey","Some deviation inequalities",,,,"Banach Archive 9/5/90","math.FA",,"  We introduce a concentration property for probability measures on
+$\scriptstyle{R^n}$, which we call Property~($\scriptstyle\tau$); we show that
+this property has an interesting stability under products and contractions
+(Lemmas 1,~2,~3). Using property~($\scriptstyle\tau$), we give a short proof
+for a recent deviation inequality due to Talagrand. In a third section, we also
+recover known concentration results for Gaussian measures using our approach.}
+","[{""version"":""v1"",""created"":""Wed, 5 Sep 1990 15:19:00 GMT""}]","2009-09-25"

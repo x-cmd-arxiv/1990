@@ -1,0 +1,12 @@
+"cs/9301111","Maggie McLoughlin","Donald E. Knuth","Nested satisfiability",,"Acta Inform. 28 (1990), no. 1, 1--6",,"Knuth migration 11/2004","cs.CC",,"  A special case of the satisfiability problem, in which the clauses have a
+hierarchical structure, is shown to be solvable in linear time, assuming that
+the clauses have been represented in a convenient way.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1990 00:00:00 GMT""}]","2008-02-03"
+"math/9201303","Maggie McLoughlin","Donald E. Knuth, Rajeev Motwani, and Boris Pittel","Stable husbands",,"Random Structures Algorithms 1 (1990), no. 1, 1--14",,"Knuth migration 11/2004","math.CO math.PR",,"  Suppose $n$ boys and $n$ girls rank each other at random. We show that any
+particular girl has at least $({1\over 2}-\epsilon) \ln n$ and at most
+$(1+\epsilon)\ln n$ different husbands in the set of all Gale/Shapley stable
+matchings defined by these rankings, with probability approaching 1 as $n \to
+\infty$, if $\epsilon$ is any positive constant. The proof emphasizes general
+methods that appear to be useful for the analysis of many other combinatorial
+algorithms.
+","[{""version"":""v1"",""created"":""Mon, 1 Jan 1990 00:00:00 GMT""}]","2008-02-03"

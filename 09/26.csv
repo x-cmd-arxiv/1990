@@ -1,0 +1,9 @@
+"math/9201275","Mikhail Lyubich","Pavel Bleher, Mikhail Lyubich","The Julia sets and complex singularities in hierarchical Ising models",,,"10.1007/BF02102810","Stony Brook IMS 1990/12","math.DS math-ph math.MP",,"  We study the analytical continuation in the complex plane of free energy of
+the Ising model on diamond-like hierarchical lattices. It is known that the
+singularities of free energy of this model lie on the Julia set of some
+rational endomorphism $f$ related to the action of the Migdal-Kadanoff
+renorm-group. We study the asymptotics of free energy when temperature goes
+along hyperbolic geodesics to the boundary of an attractive basin of $f$. We
+prove that for almost all (with respect to the harmonic measure) geodesics the
+complex critical exponent is common, and compute it.
+","[{""version"":""v1"",""created"":""Wed, 26 Sep 1990 00:00:00 GMT""}]","2009-10-22"

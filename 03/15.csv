@@ -1,0 +1,7 @@
+"math/9201210",,"Paulette Saab","Integral Operators on Spaces of Continuous Vector-valued Functions",,,,"Banach Archive 3/15/90","math.FA",,"  Let $X$ be a compact Hausdorff space, let $E$ be a Banach space, and let
+$C(X,E)$ stand for the Banach space of $E$-valued continuous functions on $X$
+under the uniform norm. In this paper we characterize Integral operators (in
+the sense of Grothendieck) on $C(X,E)$ spaces in term of their representing
+vector measures. This is then used to give some applications to Nuclear
+operators on $C(X,E)$ spaces.
+","[{""version"":""v1"",""created"":""Thu, 15 Mar 1990 15:00:00 GMT""}]","2009-09-25"

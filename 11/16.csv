@@ -1,0 +1,5 @@
+"math/9201219",,"Edward Odell","On quotients of Banach spaces having shrinking unconditional bases",,,,"Banach Archive 11/16/90","math.FA",,"  It is proved that if a Banach space $Y$ is a quotient of a Banach space
+having a shrinking unconditional basis, then every normalized weakly null
+sequence in $Y$ has an unconditional subsequence. The proof yields the
+corollary that every quotient of Schreier's space is $c_o$-saturated.
+","[{""version"":""v1"",""created"":""Fri, 16 Nov 1990 00:00:00 GMT""}]","2008-02-03"

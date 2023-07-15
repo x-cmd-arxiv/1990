@@ -1,0 +1,41 @@
+"math/9201240","Shelah Office","Bradd Hart, Saharon Shelah","Categoricity over P for first order T or categoricity for phi in
+  L_{omega_1 omega} can stop at aleph_k while holding for aleph_0, ...,
+  aleph_{k-1}",,"Israel J. Math. 70 (1990), 219--235",,"Shelah [HaSh:323]","math.LO",,"  Suppose L is a relational language and P in L is a unary predicate. If M is
+an L-structure then P(M) is the L-structure formed as the substructure of M
+with domain {a: M models P(a)}. Now suppose T is a complete first order theory
+in L with infinite models. Following Hodges, we say that T is relatively
+lambda-categorical if whenever M, N models T, P(M)=P(N), |P(M)|= lambda then
+there is an isomorphism i:M-> N which is the identity on P(M). T is relatively
+categorical if it is relatively lambda-categorical for every lambda. The
+question arises whether the relative lambda-categoricity of T for some lambda
+>|T| implies that T is relatively categorical.
+  In this paper, we provide an example, for every k>0, of a theory T_k and an
+L_{omega_1 omega} sentence varphi_k so that T_k is relatively
+aleph_n-categorical for n < k and varphi_k is aleph_n-categorical for n<k but
+T_k is not relatively beth_k-categorical and varphi_k is not
+beth_k-categorical.
+","[{""version"":""v1"",""created"":""Mon, 15 Jan 1990 00:00:00 GMT""}]","2008-02-03"
+"math/9201241","Shelah Office","John T. Baldwin, Saharon Shelah","The primal framework. I",,"Ann. Pure Appl. Logic 46 (1990), 235--264",,"Shelah [BlSh:330]","math.LO",,"  This the first of a series of articles dealing with abstract classification
+theory. The apparatus to assign systems of cardinal invariants to models of a
+first order theory (or determine its impossibility) is developed in [Sh:a]. It
+is natural to try to extend this theory to classes of models which are
+described in other ways. Work on the classification theory for nonelementary
+classes [Sh:88] and for universal classes [Sh:300] led to the conclusion that
+an axiomatic approach provided the best setting for developing a theory of
+wider application. In the first chapter we describe the axioms on which the
+remainder of the article depends and give some examples and context to justify
+this level of generality. The study of universal classes takes as a primitive
+the notion of closing a subset under functions to obtain a model. We replace
+that concept by the notion of a prime model. We begin the detailed discussion
+of this idea in Chapter II. One of the important contributions of
+classification theory is the recognition that large models can often be
+analyzed by means of a family of small models indexed by a tree of height at
+most omega. More precisely, the analyzed model is prime over such a tree.
+Chapter III provides sufficient conditions for prime models over such trees to
+exist.
+","[{""version"":""v1"",""created"":""Mon, 15 Jan 1990 00:00:00 GMT""}]","2009-09-25"
+"math/9201242","Shelah Office","Thomas Jech, Saharon Shelah","Full reflection of stationary sets below aleph_omega",,"J. Symbolic Logic 55 (1990), 822--830",,"Shelah [JeSh:387]","math.LO",,"  It is consistent that for every n >= 2, every stationary subset of omega_n
+consisting of ordinals of cofinality omega_k where k = 0 or k <= n-3 reflects
+fully in the set of ordinals of cofinality omega_{n-1}. We also show that this
+result is best possible.
+","[{""version"":""v1"",""created"":""Mon, 15 Jan 1990 00:00:00 GMT""}]","2008-02-03"

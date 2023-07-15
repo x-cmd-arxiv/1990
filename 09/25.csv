@@ -1,0 +1,10 @@
+"math/9201217",,"Keith Ball","Ellipsoids of maximal volume in convex bodies",,,,"Banach Archive 9/25/90","math.MG math.FA",,"  The largest discs contained in a regular tetrahedron lie in its faces. The
+proof is closely related to the theorem of Fritz John characterising ellipsoids
+of maximal volume contained in convex bodies.
+","[{""version"":""v1"",""created"":""Tue, 25 Sep 1990 14:45:00 GMT""}]","2009-09-25"
+"math/9201218",,"Keith Ball","The plank problem for symmetric bodies",,,"10.1007/BF01245089","Banach Archive 9/25/90","math.MG math.FA",,"  Given a symmetric convex body $C$ and $n$ hyperplanes in an Euclidean space,
+there is a translate of a multiple of $C$, at least ${1\over n+1}$ times as
+large, inside $C$, whose interior does not meet any of the hyperplanes. The
+result generalizes Bang's solution of the plank problem of Tarski and has
+applications to Diophantine approximation.
+","[{""version"":""v1"",""created"":""Tue, 25 Sep 1990 14:45:00 GMT""}]","2009-10-22"
